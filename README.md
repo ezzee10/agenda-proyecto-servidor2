@@ -1,4 +1,5 @@
 # Agenda de proyectos cliente
 Agenda de proyectos servidor finalizada con frontend
 
-![tabla-de-proyectos-mern-portada](https://user-images.githubusercontent.com/32559854/115327649-b11a6d00-a165-11eb-8706-28017d753f42.png)
+![tabla-de-proyectos-mern](https://user-images.githubusercontent.com/32559854/115327696-c2fc1000-a165-11eb-9d31-d6b6f098f0be.png)
+
